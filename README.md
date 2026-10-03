@@ -24,19 +24,20 @@ I enjoy building web and Android applications and improving my problem-solving s
 
 ### Admit Genie
 
-AI-powered admission assistant chatbot using Python and NLP.
+AI-powered admission assistant chatbot using Python and NLP to provide information about eligibility, courses, deadlines, and application procedures.
 
 ### Kashta-Kala
 
-Android application for local carpenters and furniture makers with furniture catalog, price quotation and material estimation.
+Android application for local carpenters and furniture makers featuring furniture catalogs, price quotation, material estimation, and invoice management.
 
 ### Student Management System
 
-Java web application using Servlets, JSP, JDBC and MySQL.
+Java web application built using J2EE, Servlets, JSP, JDBC, and MySQL with student management and authentication features.
 
 ### Portfolio
 
-Personal developer portfolio showcasing my skills and projects.
+Personal developer portfolio showcasing my skills, projects, and experience.
+
 
 ## 📚 Currently Learning
 
