@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Gowthami 👋
 
-<!--
-**Gowthami-kotyan/Gowthami-kotyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineer
+🌱 Java Full Stack Developer | GenAI Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building web and Android applications and improving my problem-solving skills through coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Java
+* J2EE
+* JDBC
+* Servlets
+* JSP
+* HTML
+* CSS
+* JavaScript
+* MySQL
+* Android / Kotlin
+* Git & GitHub
+
+
+## 🚀 Projects
+
+### Admit Genie
+
+AI-powered admission assistant chatbot using Python and NLP.
+
+### Kashta-Kala
+
+Android application for local carpenters and furniture makers with furniture catalog, price quotation and material estimation.
+
+### Student Management System
+
+Java web application using Servlets, JSP, JDBC and MySQL.
+
+### Portfolio
+
+Personal developer portfolio showcasing my skills and projects.
+
+## 📚 Currently Learning
+
+* Java Full Stack Development
+* Data Structures & Algorithms
+* GenAI
+
+## 🔗 Connect with me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
