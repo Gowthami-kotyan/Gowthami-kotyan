@@ -46,4 +46,4 @@ Personal developer portfolio showcasing my skills and projects.
 
 ## 🔗 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn](https://www.linkedin.com/in/gowthami-k-54473132b)
