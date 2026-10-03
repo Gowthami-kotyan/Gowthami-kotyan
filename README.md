@@ -12,7 +12,7 @@
 </a>
 </div>
 ---
-<h2 align="center">👋 HELLO, WORLD!</h2>
+<h2 align="center">👩‍💻 Meet Gowthami</h2>
 <p align="center">
   💻 <b>Computer Science Engineer</b> &nbsp;•&nbsp;
   ☕ <b>Java Full Stack Developer</b> &nbsp;•&nbsp;
@@ -197,7 +197,7 @@ Personal developer portfolio showcasing my skills, projects and experience.
   <i>Curiosity drives learning. Consistency turns learning into progress.</i>
 </p>
 ---
-<h2 align="center">🔗 CONNECT WITH ME</h2>
+<h2 align="center">🔗 Let's Connect</h2>
 <p align="center">
   <a href="https://gowthami-kotyan.github.io/portfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
