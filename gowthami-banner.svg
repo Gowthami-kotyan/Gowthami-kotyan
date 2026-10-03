@@ -1,0 +1,63 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050816"/>
+    <stop offset="0.42" stop-color="#111044"/>
+    <stop offset="0.72" stop-color="#25105C"/>
+    <stop offset="1" stop-color="#061A2A"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 70) rotate(35) scale(420 260)">
+    <stop stop-color="#06B6D4" stop-opacity="0.75"/>
+    <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 300) rotate(-20) scale(430 250)">
+    <stop stop-color="#A855F7" stop-opacity="0.8"/>
+    <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="line" x1="130" y1="310" x2="1060" y2="70" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#06B6D4"/>
+    <stop offset="0.5" stop-color="#7C3AED"/>
+    <stop offset="1" stop-color="#EC4899"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#000000" flood-opacity="0.45"/>
+  </filter>
+</defs>
+
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#glow1)"/>
+<rect width="1200" height="360" rx="28" fill="url(#glow2)"/>
+
+<g opacity="0.7">
+  <circle cx="85" cy="72" r="2" fill="#fff"/>
+  <circle cx="142" cy="290" r="1.5" fill="#67E8F9"/>
+  <circle cx="212" cy="115" r="1.4" fill="#fff"/>
+  <circle cx="318" cy="54" r="1.8" fill="#A5F3FC"/>
+  <circle cx="390" cy="286" r="1.3" fill="#fff"/>
+  <circle cx="470" cy="95" r="1.5" fill="#C4B5FD"/>
+  <circle cx="560" cy="45" r="1.2" fill="#fff"/>
+  <circle cx="635" cy="315" r="1.7" fill="#67E8F9"/>
+  <circle cx="718" cy="76" r="1.4" fill="#fff"/>
+  <circle cx="805" cy="265" r="1.7" fill="#C4B5FD"/>
+  <circle cx="890" cy="52" r="1.4" fill="#fff"/>
+  <circle cx="978" cy="140" r="1.8" fill="#67E8F9"/>
+  <circle cx="1080" cy="285" r="1.4" fill="#fff"/>
+  <circle cx="1140" cy="90" r="1.6" fill="#C4B5FD"/>
+</g>
+
+<path d="M0 285 C210 190 300 330 500 235 C720 130 860 245 1200 90" stroke="url(#line)" stroke-width="2" opacity="0.65"/>
+<path d="M0 310 C210 215 330 345 535 255 C745 165 890 265 1200 120" stroke="#22D3EE" stroke-width="1" opacity="0.25"/>
+
+<g filter="url(#shadow)">
+  <text x="600" y="142" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="5">GOWTHAMI</text>
+  <text x="600" y="192" text-anchor="middle" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="2">COMPUTER SCIENCE ENGINEER</text>
+  <text x="600" y="232" text-anchor="middle" fill="#E9D5FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1.5">JAVA FULL STACK DEVELOPER  •  GENAI ENTHUSIAST</text>
+</g>
+
+<g opacity="0.9">
+  <circle cx="420" cy="275" r="4" fill="#06B6D4"/>
+  <circle cx="600" cy="275" r="4" fill="#A855F7"/>
+  <circle cx="780" cy="275" r="4" fill="#EC4899"/>
+</g>
+</svg>
